@@ -1,0 +1,11 @@
+build/
+**/taskArtifacts/
+.idea
+.navigation
+local.properties
+*.iml
+.gradle
+app/build/
+.DS_Store
+*.hprof
+/captures
